@@ -1,0 +1,5 @@
+C:\Users\luciano\Documents\SharpDevelop Projects\TP1 - Árboles Binarios\TP1 - Árboles Binarios\bin\Debug\TP1 - Árboles Binarios.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\TP1 - Árboles Binarios\TP1 - Árboles Binarios\bin\Debug\TP1 - Árboles Binarios.pdb
+C:\Users\luciano\Documents\SharpDevelop Projects\TP1 - Árboles Binarios\TP1 - Árboles Binarios\obj\Debug\TP1 - Árboles Binarios.csprojResolveAssemblyReference.cache
+C:\Users\luciano\Documents\SharpDevelop Projects\TP1 - Árboles Binarios\TP1 - Árboles Binarios\obj\Debug\TP1 - Árboles Binarios.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\TP1 - Árboles Binarios\TP1 - Árboles Binarios\obj\Debug\TP1 - Árboles Binarios.pdb
