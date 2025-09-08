@@ -1,0 +1,5 @@
+C:\Users\luciano\Documents\SharpDevelop Projects\TP2 - Heap Binaria y Arbol General\TP2 - Heap Binaria y Arbol General\bin\Debug\TP2 - Heap Binaria y Arbol General.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\TP2 - Heap Binaria y Arbol General\TP2 - Heap Binaria y Arbol General\bin\Debug\TP2 - Heap Binaria y Arbol General.pdb
+C:\Users\luciano\Documents\SharpDevelop Projects\TP2 - Heap Binaria y Arbol General\TP2 - Heap Binaria y Arbol General\obj\Debug\TP2 - Heap Binaria y Arbol General.csprojResolveAssemblyReference.cache
+C:\Users\luciano\Documents\SharpDevelop Projects\TP2 - Heap Binaria y Arbol General\TP2 - Heap Binaria y Arbol General\obj\Debug\TP2 - Heap Binaria y Arbol General.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\TP2 - Heap Binaria y Arbol General\TP2 - Heap Binaria y Arbol General\obj\Debug\TP2 - Heap Binaria y Arbol General.pdb
