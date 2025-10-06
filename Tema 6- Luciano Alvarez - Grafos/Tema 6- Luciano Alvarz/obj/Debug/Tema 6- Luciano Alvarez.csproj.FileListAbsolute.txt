@@ -1,0 +1,5 @@
+C:\Users\luciano\Documents\SharpDevelop Projects\Tema 6- Luciano Alvarz\Tema 6- Luciano Alvarz\obj\Debug\Tema 6- Luciano Alvarez.csprojResolveAssemblyReference.cache
+C:\Users\luciano\Documents\SharpDevelop Projects\Tema 6- Luciano Alvarz\Tema 6- Luciano Alvarz\bin\Debug\Tema 6- Luciano Alvarez.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Tema 6- Luciano Alvarz\Tema 6- Luciano Alvarz\bin\Debug\Tema 6- Luciano Alvarez.pdb
+C:\Users\luciano\Documents\SharpDevelop Projects\Tema 6- Luciano Alvarz\Tema 6- Luciano Alvarz\obj\Debug\Tema 6- Luciano Alvarez.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Tema 6- Luciano Alvarz\Tema 6- Luciano Alvarz\obj\Debug\Tema 6- Luciano Alvarez.pdb

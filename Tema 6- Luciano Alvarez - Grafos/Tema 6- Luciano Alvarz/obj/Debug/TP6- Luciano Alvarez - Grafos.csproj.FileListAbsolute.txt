@@ -1,0 +1,5 @@
+C:\Users\luciano\Documents\SharpDevelop Projects\Tema 6- Luciano Alvarz\Tema 6- Luciano Alvarz\bin\Debug\TP6- Luciano Alvarez - Grafos.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Tema 6- Luciano Alvarz\Tema 6- Luciano Alvarz\bin\Debug\TP6- Luciano Alvarez - Grafos.pdb
+C:\Users\luciano\Documents\SharpDevelop Projects\Tema 6- Luciano Alvarz\Tema 6- Luciano Alvarz\obj\Debug\TP6- Luciano Alvarez - Grafos.csprojResolveAssemblyReference.cache
+C:\Users\luciano\Documents\SharpDevelop Projects\Tema 6- Luciano Alvarz\Tema 6- Luciano Alvarz\obj\Debug\TP6- Luciano Alvarez - Grafos.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Tema 6- Luciano Alvarz\Tema 6- Luciano Alvarz\obj\Debug\TP6- Luciano Alvarez - Grafos.pdb
